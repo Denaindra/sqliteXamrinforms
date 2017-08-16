@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{616ED9A0-CFB4-40B4-9F31-006888A77CE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleSQLiteApp/PersonRepository.cs">
+    <Files>
+      <File FileName="SampleSQLiteApp/App.xaml.cs" Line="13" Column="28" />
+      <File FileName="Droid/MainActivity.cs" Line="26" Column="49" />
+      <File FileName="iOS/AppDelegate.cs" Line="18" Column="4" />
+      <File FileName="iOS/FileAccessHelper.cs" Line="30" Column="70" />
+      <File FileName="SampleSQLiteApp/PersonRepository.cs" Line="57" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleSQLiteApp" expanded="True">
+            <Node name="SampleSQLiteApp" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="PersonRepository.cs" selected="True" />
+              <Node name="SampleSQLiteAppPage.xaml" expanded="True" />
+            </Node>
+            <Node name="SampleSQLiteApp.Droid" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="SampleSQLiteApp.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gadperera/Projects/SampleSQLiteApp/SampleSQLiteApp/PersonRepository.cs" relfile="SampleSQLiteApp/PersonRepository.cs" line="29" column="1" />
+      <Breakpoint file="/Users/gadperera/Projects/SampleSQLiteApp/SampleSQLiteApp/PersonRepository.cs" relfile="SampleSQLiteApp/PersonRepository.cs" line="40" column="1" />
+      <Breakpoint file="/Users/gadperera/Projects/SampleSQLiteApp/SampleSQLiteApp/PersonRepository.cs" relfile="SampleSQLiteApp/PersonRepository.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleSQLiteApp.Droid PreferredExecutionTarget="Android.android" />
+  <MonoDevelop.Ide.ItemProperties.SampleSQLiteApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E7909635-55D4-4856-9DDC-3B29C428683E" />
+  <MultiItemStartupConfigurations />
+</Properties>
